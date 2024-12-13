@@ -7,8 +7,6 @@
 
 <br/>
 
-<img align="right" height="150" style="border-radius: 16px;" src="https://scontent.fsra4-1.fna.fbcdn.net/v/t39.30808-6/367451817_2240644599480153_8461651497881202851_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=DEj1fdTGz28Q7kNvgGab4NS&_nc_zt=23&_nc_ht=scontent.fsra4-1.fna&_nc_gid=A3vJzyW9QhQxZ1-3gBKGgdr&oh=00_AYA5eQ58FK0swxKAjK8W22kaErvMA_ZWbYyFHWG_wBPK6g&oe=67614B99" />
-
 ###
 <br/>
 <div align="left">
